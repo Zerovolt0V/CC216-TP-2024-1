@@ -15,4 +15,4 @@ Este trabajo forma parte de la entrega parcial del curso de Fundamentos de Data 
 # Conclusiones
 
 # Licencia
-Se ha acordado usar para este proyecto analítico la licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+Se ha acordado usar para este proyecto analítico la [Licencia pública general de GNU v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
